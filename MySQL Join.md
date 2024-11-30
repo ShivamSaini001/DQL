@@ -26,7 +26,7 @@ Ans.
 
 <br>
 
-<center style="background: #E7E9EB; border-radius: 20px;">
+<center style="background: 'white'; border-radius: '20px';">
 
 ![Joins](./img_inner_join.png)
 ![Joins](./img_left_join.png)
