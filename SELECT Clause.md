@@ -109,7 +109,7 @@ Syntax: -
 - ### ORDER BY command in SELECT Command:
     Syntax: -
     ```sql
-        SELECT column1, column2, ... FROM [table_name] WHERE [Condition];
+        SELECT column1, column2, ... FROM [table_name] WHERE [Condition] ORDER BY [column_name] [ASC/DESC];
     ```
     Example: -
     ```sql
